@@ -6,7 +6,7 @@ Version 1.0.0
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Wallpaper Program](https://raw.githubusercontent.com/AnandaRauf/HappyCure/main/logo%20happy%20cure.png)
+![Wallpaper Program](https://raw.githubusercontent.com/AnandaRauf/Happy-Care-Beta-Test/main/HappyCare-Logo-Slogan.png)
 
 Happy Care is android app health care. 
 
@@ -14,7 +14,7 @@ Version: 1.0.0 (Closed Source).
 
 Developed by Ananda Rauf Maududi / Media Pengembangan Teknologi Indonesia Jaya
 
-Developed date: 21 May 2023
+Developed date: 12 July 2022 - 21 May 2023
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
